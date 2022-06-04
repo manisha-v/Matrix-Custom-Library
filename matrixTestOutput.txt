@@ -1,0 +1,59 @@
+
+Matrix m:
+Dimension: [3, 3]
+9       2       3
+5       -1      6
+4       0       -2
+
+Addition of matrices(m2):
+Dimension: [3, 3]
+18      4       6
+10      -2      12
+8       0       -4
+
+product of matrices m & m2:
+Dimension: [3, 3]
+206     32      66
+128     22      -6
+56      16      32
+
+Transpose of matrix m:
+Dimension: [3, 3]
+9       5       4
+2       -1      0
+3       6       -2
+
+Determinant of Matrix m:
+98
+
+Inverse of matrix:
+Dimension: [3, 3]
+0.020   0.041   0.153
+0.347   -0.306  -0.398
+0.041   0.082   -0.194
+
+popped row from matrix m:
+4
+0
+-2
+
+
+Matrix after popping a row:
+Dimension: [2, 3]
+9       2       3
+5       -1      6
+
+Matrix m3 (for Simple linear regression):
+Row     X       Y
+1       2       5
+2       4       9
+3       6       13
+4       8       17
+5       0       1
+
+Coefficients:
+Intercept:  1.000
+Slope:  2.000
+Prediction for x = 10: 21.000
+
+Press any key to continue . . .
