@@ -30,7 +30,7 @@ int main(){
     int d = deter(m);
     cout<<"Determinant of Matrix m:\n"<<d<<"\n\n";
 
-    //inverse of matrix
+    //Inverse of matrix
     m1 = inverse(m);
     cout<<"Inverse of matrix:\n"<<m1;
     
