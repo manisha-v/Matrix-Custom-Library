@@ -8,6 +8,7 @@ int main(){
     //declaring a matrix of 3X3
     matrix<int> m(a,9, 3, 3);
     cout<<"Matrix m:\n"<<m;
+    cout<<"Matrix element m[1][1]: "<<m[1][1];
 
     //different ways of declaring matrices 
     matrix<float> m1;
