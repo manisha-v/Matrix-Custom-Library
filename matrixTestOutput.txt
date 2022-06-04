@@ -5,6 +5,8 @@ Dimension: [3, 3]
 5       -1      6
 4       0       -2
 
+Matrix element m[1][1]: -1
+
 Addition of matrices(m2):
 Dimension: [3, 3]
 18      4       6
